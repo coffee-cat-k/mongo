@@ -1,0 +1,5 @@
+com/example/mongo/ServletInitializer.class
+com/example/mongo/TutorialController.class
+com/example/mongo/MongoApplication.class
+com/example/mongo/TutorialRepository.class
+com/example/mongo/Tutorial.class

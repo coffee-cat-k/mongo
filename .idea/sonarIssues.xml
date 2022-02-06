@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$USER_HOME$/Desktop/springboot/hatake-ecomm/inventory-service/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/springboot/hatake-ecomm/inventory-service/src/main/java/com/hatake/inventoryservice/models/Category.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/springboot/hatake-ecomm/inventory-service/src/main/java/com/hatake/inventoryservice/models/CategoryLogEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/springboot/hatake-ecomm/inventory-service/src/main/java/com/hatake/inventoryservice/models/Invoice.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/springboot/hatake-ecomm/inventory-service/src/main/java/com/hatake/inventoryservice/models/Permission.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/springboot/hatake-ecomm/inventory-service/src/main/java/com/hatake/inventoryservice/models/PermissionLogEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/springboot/hatake-ecomm/inventory-service/src/main/java/com/hatake/inventoryservice/models/Pricing.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/springboot/hatake-ecomm/inventory-service/src/main/java/com/hatake/inventoryservice/models/PricingLogEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/springboot/hatake-ecomm/inventory-service/src/main/java/com/hatake/inventoryservice/models/Product.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/springboot/hatake-ecomm/inventory-service/src/main/java/com/hatake/inventoryservice/models/ProductInvoice.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/springboot/hatake-ecomm/inventory-service/src/main/java/com/hatake/inventoryservice/models/ProductLogEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/springboot/hatake-ecomm/inventory-service/src/main/java/com/hatake/inventoryservice/models/ProductPricing.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/springboot/hatake-ecomm/inventory-service/src/main/java/com/hatake/inventoryservice/models/Role.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/springboot/hatake-ecomm/inventory-service/src/main/java/com/hatake/inventoryservice/models/RoleLogEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/springboot/hatake-ecomm/inventory-service/src/main/java/com/hatake/inventoryservice/models/RolePermission.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/springboot/hatake-ecomm/inventory-service/src/main/java/com/hatake/inventoryservice/models/Stock.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/springboot/hatake-ecomm/inventory-service/src/main/java/com/hatake/inventoryservice/models/StockLogEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/springboot/hatake-ecomm/inventory-service/src/main/java/com/hatake/inventoryservice/models/Supplier.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/springboot/hatake-ecomm/inventory-service/src/main/java/com/hatake/inventoryservice/models/SupplierLogEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/springboot/hatake-ecomm/inventory-service/src/main/java/com/hatake/inventoryservice/models/TheLogConverter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/springboot/hatake-ecomm/inventory-service/src/main/java/com/hatake/inventoryservice/models/User.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/springboot/hatake-ecomm/inventory-service/src/main/java/com/hatake/inventoryservice/models/UserLogEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/springboot/hatake-ecomm/inventory-service/src/main/java/com/hatake/inventoryservice/models/UserRole.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/springboot/hatake-ecomm/user-service/deploy.sh">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/springboot/hatake-ecomm/user-service/src/main/java/com/hatake/userservice/controllers/AuthController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/springboot/hatake-ecomm/user-service/src/main/java/com/hatake/userservice/controllers/HomeController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/springboot/hatake-ecomm/user-service/src/main/java/com/hatake/userservice/models/Users.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/springboot/hatake-ecomm/user-service/src/main/java/com/hatake/userservice/security/WebSecurityConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/springboot/hatake-ecomm/user-service/src/main/resources/templates/index.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/springboot/inventory-service/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/springboot/inventory-service/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mogoprodcat/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mogotest/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mogotest/src/main/java/com/example/mogotest/ItemController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mogotest/src/main/java/com/example/mogotest/ItemRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mogotest/src/main/java/com/example/mogotest/MogotestApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mogotest/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/example/mongo/Tutorial.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/example/mongo/TutorialController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/example/mongo/TutorialRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
